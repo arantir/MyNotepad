@@ -1,0 +1,22 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+C:\Users\User\source\repos\MyNotepad\Блокнотик\AssemblyInfo.cpp(40,29): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+C:\Users\User\source\repos\MyNotepad\Блокнотик\AssemblyInfo.cpp(40,29): message : Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  Partyprint.cpp
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(221,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Sample.cpp
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(221,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Печать приглашений.cpp
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(221,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Partyprint.h(251,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Блокнотик.vcxproj -> C:\Users\User\source\repos\MyNotepad\Release\Блокнотик.exe

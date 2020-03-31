@@ -1,0 +1,4 @@
+﻿  Sample.cpp
+c:\users\александр\documents\visual studio 2012\projects\блокнотик\блокнотик\Partyprint.h(220): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\блокнотик\блокнотик\Partyprint.h(250): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Блокнотик.vcxproj -> C:\Users\Александр\documents\visual studio 2012\Projects\Блокнотик\Debug\Блокнотик.exe

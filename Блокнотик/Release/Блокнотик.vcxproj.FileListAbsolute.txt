@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Release\Блокнотик.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Release\Блокнотик.Form1.resources
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Release\Блокнотик.Partyprint.resources
+C:\Users\User\source\repos\MyNotepad\Блокнотик\Release\Блокнотик.vcxproj.GenerateResource.cache
